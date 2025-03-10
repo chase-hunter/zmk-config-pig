@@ -1,14 +1,14 @@
-if SHIELD_DANCE_LEFT
+if SHIELD_PIG_LEFT
 
 config ZMK_KEYBOARD_NAME
-    default "dance!"
+    default "pig!"
 
 config ZMK_SPLIT_ROLE_CENTRAL
     default y
 
 endif
 
-if SHIELD_DANCE_LEFT || SHIELD_DANCE_RIGHT
+if SHIELD_PIG_LEFT || SHIELD_PIG_RIGHT
 
 config ZMK_SPLIT
     default y

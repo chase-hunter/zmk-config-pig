@@ -1,13 +1,13 @@
 file_format: "1"
-id: dance
-name: dance!
+id: pig
+name: pig!
 type: shield
-url: https://github.com/chase-hunter/dance
+url: https://github.com/chase-hunter/pig
 requires: [pro_micro]
 exposes: [i2c_oled]
 features:
   - keys
   - display
 siblings:
-  - dance_left
-  - dance_right
+  - pig_left
+  - pig_right
