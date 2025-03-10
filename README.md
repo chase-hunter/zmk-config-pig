@@ -1,5 +1,8 @@
 # dance!
-my config for [dance!](https://github.com/chase-hunter/dance)
+my config for [pig!](https://github.com/chase-hunter/pig)
 
 ## keymap
-![dance! Keymap](keymap_img/dance_keymap.svg)
+![pig! Keymap](keymap_img/pig_keymap.svg)
+
+
+test test
