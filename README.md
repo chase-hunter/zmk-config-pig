@@ -1,4 +1,4 @@
-# dance!
+# pig!
 my config for [pig!](https://github.com/chase-hunter/pig)
 
 ## keymap
