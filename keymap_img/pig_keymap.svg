@@ -231,11 +231,11 @@ path {
 </g>
 <g class="combo combopos-0">
 <rect rx="6" ry="6" x="164" y="82" width="28" height="26" class="combo"/>
-<text x="178" y="95" class="combo tap">Ctl+C</text>
+<text x="178" y="95" class="combo tap">⌘C</text>
 </g>
 <g class="combo combopos-1">
 <rect rx="6" ry="6" x="164" y="26" width="28" height="26" class="combo"/>
-<text x="178" y="39" class="combo tap">Ctl+V</text>
+<text x="178" y="39" class="combo tap">⌘V</text>
 </g>
 <g class="combo combopos-2">
 <path d="M148,128 l-99,12" class="combo"/>
@@ -403,11 +403,11 @@ path {
 </g>
 <g class="combo combopos-0">
 <rect rx="6" ry="6" x="164" y="82" width="28" height="26" class="combo"/>
-<text x="178" y="95" class="combo tap">Ctl+C</text>
+<text x="178" y="95" class="combo tap">⌘C</text>
 </g>
 <g class="combo combopos-1">
 <rect rx="6" ry="6" x="164" y="26" width="28" height="26" class="combo"/>
-<text x="178" y="39" class="combo tap">Ctl+V</text>
+<text x="178" y="39" class="combo tap">⌘V</text>
 </g>
 <g class="combo combopos-2">
 <path d="M148,128 l-99,12" class="combo"/>
@@ -574,11 +574,11 @@ path {
 </g>
 <g class="combo combopos-0">
 <rect rx="6" ry="6" x="164" y="82" width="28" height="26" class="combo"/>
-<text x="178" y="95" class="combo tap">Ctl+C</text>
+<text x="178" y="95" class="combo tap">⌘C</text>
 </g>
 <g class="combo combopos-1">
 <rect rx="6" ry="6" x="164" y="26" width="28" height="26" class="combo"/>
-<text x="178" y="39" class="combo tap">Ctl+V</text>
+<text x="178" y="39" class="combo tap">⌘V</text>
 </g>
 <g class="combo combopos-2">
 <path d="M148,128 l-99,12" class="combo"/>
@@ -746,11 +746,11 @@ path {
 </g>
 <g class="combo combopos-0">
 <rect rx="6" ry="6" x="164" y="82" width="28" height="26" class="combo"/>
-<text x="178" y="95" class="combo tap">Ctl+C</text>
+<text x="178" y="95" class="combo tap">⌘C</text>
 </g>
 <g class="combo combopos-1">
 <rect rx="6" ry="6" x="164" y="26" width="28" height="26" class="combo"/>
-<text x="178" y="39" class="combo tap">Ctl+V</text>
+<text x="178" y="39" class="combo tap">⌘V</text>
 </g>
 <g class="combo combopos-2">
 <path d="M148,128 l-99,12" class="combo"/>
