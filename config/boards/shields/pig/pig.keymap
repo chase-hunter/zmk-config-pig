@@ -124,12 +124,12 @@
         compatible = "zmk,combos";
 
         dfcopy {
-            bindings = <&kp LC(C)>;
+            bindings = <&kp LG(C)>;
             key-positions = <12 13>;
         };
 
         erpaste {
-            bindings = <&kp LC(V)>;
+            bindings = <&kp LG(V)>;
             key-positions = <2 3>;
         };
 
