@@ -14,8 +14,8 @@ manifest:
     #- name: nice-view-gem #nice-view-gem
     # remote: m165437 #nice-view-gem
     # revision: main #nice-view-gem
-    #- name: nice-shield-p #pig
-    #  remote: chase-hunter #pig
-    #  revision: main #pig
+    - name: nice-shield-p #pig
+      remote: chase-hunter #pig
+      revision: main #pig
   self:
     path: config
